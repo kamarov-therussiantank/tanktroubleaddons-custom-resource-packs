@@ -19,7 +19,7 @@ This repository is chained to [TankTroubleAddons v2](https://chromewebstore.goog
  
 - Load:
   - Open TankTroubleAddons menu
-  - Find "Texture packs" section and click on the button bellow it
+  - Find "Resource packs" section and click on the button bellow it
   - An dropping window will appear, with few selections, find and click "Add from zip..."
   - Select texturepack you want to load
 
@@ -27,19 +27,20 @@ This repository is chained to [TankTroubleAddons v2](https://chromewebstore.goog
 # Archive
 <div><img src="https://raw.githubusercontent.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/refs/heads/main/tex-buttons/light-textures.png" style="width: 15px"> Light texture packs:<div/>
   
-  - [Classic Light textures](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/texturepacks/Classic%20Light.zip)
-  - [Simple Light textures](https://github.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/raw/refs/heads/main/texturepacks/simple-light-texturepack.zip)
+  - [Classic Light textures](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Classic%20Light.zip)
+  - [Simple Light textures](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/simple-light-texturepack.zip)
    
 <div><img src="https://raw.githubusercontent.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/refs/heads/main/tex-buttons/dark-textures.png" style="width: 15px"> Dark texture packs:<div/>
    
-  - [Classic Dark textures](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/texturepacks/Classic%20Dark.zip)
-  - [Simple Dark textures](https://github.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/raw/refs/heads/main/texturepacks/simple-dark-texturepack.zip)
+  - [Classic Dark textures](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Classic%20Dark.zip)
+  - [Simple Dark textures](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/simple-dark-texturepack.zip)
 
 <div><img src="https://raw.githubusercontent.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/refs/heads/main/tex-buttons/other-textures.png" style="width: 15px"> Other texture packs:<div/>
    
-  - [Lucky Crates](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/texturepacks/Lucky%20Crate.zip)
-  - [Easter textures](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/texturepacks/Easter.zip)
+  - [Lucky Crates](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Lucky%20Crate.zip)
+  - [Easter textures](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Easter.zip)
   - [Leafy textures](http://tiny.cc/leafy_theme)
   - [Nelly Belly Wonderland textures](https://t.ly/C9k0G)
   - [Neon textures](https://drive.google.com/file/d/1ZnxQ_PhZBmua2uILrza7hXQaNQ53Ynvt/view)
   - [Mand textures](https://tinyurl.com/mand-texture)
+  - [Summer textures](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Summer.zip)
