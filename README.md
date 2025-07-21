@@ -11,6 +11,12 @@
 # TankTroubleAddons Resource packs
 This repository is chained to [TankTroubleAddons v2](https://chromewebstore.google.com/detail/tanktroubleaddons/ekjcldgkpfdnnffgliempinlpnjioebk) extension. It contains a collection of unique textures. Since the extension provides functionality that gives us accessibility to the textures that are built in the extension, and accessibility to custom textures, pretty sick right! Check [Archive](https://github.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/blob/main/README.md#archive) for complete list of custom textures.
 
+# Tools
+Tools are used for easier resource creation
+
+- [Blank Crate](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/tools/BlankCrate.zip)
+- [Meta & Style files](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/tools/Tools.zip)
+
 # How to download/load custom resources
 - Download:
   - Click/Go to "Archive"
