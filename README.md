@@ -8,7 +8,7 @@
 
 <br>
 
-# TankTroubleAddons Resource packs
+# TankTroubleAddons Resource Packs
 This repository is chained to [TankTroubleAddons](https://chromewebstore.google.com/detail/tanktroubleaddons/ekjcldgkpfdnnffgliempinlpnjioebk) extension. It contains a collection of unique textures. Since the extension provides functionality that gives us accessibility to the resources that are built in the extension, and accessibility to custom resources, pretty sick right! Check [Archive](https://github.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/blob/main/README.md#archive) for complete list of custom resources.
 
 # Tools
@@ -45,9 +45,8 @@ Tools are used for easier resource creation
    
   - [Lucky Crates](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Lucky%20Crate.zip)
   - [Easter](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Easter.zip)
-  - [Leafy](http://tiny.cc/leafy_theme)
-  - [Nelly Belly Wonderland](https://t.ly/C9k0G)
-  - [Neon](https://drive.google.com/file/d/1ZnxQ_PhZBmua2uILrza7hXQaNQ53Ynvt/view)
-  - [Mand](https://tinyurl.com/mand-texture)
   - [Summer](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Summer.zip)
-  - [TTOC](https://drive.google.com/file/d/1fwaluH454ifrbJZ4g7rhmeIvPUqcRdIg/view)
+
+<div><img src="https://raw.githubusercontent.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/refs/heads/main/tex-buttons/other-textures.png" style="width: 15px"> Community made resources packs:<div/>
+   
+  - There is a lot of resource packs made by other people, and that makes it hard to track, so we will list them in this [list](https://docs.google.com/document/d/1MFG3xCsaKNJQFi8-7w0gd5eS-ovquXDnQcwkCkI_7K8/edit?tab=t.0) for easier job done.
