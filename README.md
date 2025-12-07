@@ -46,7 +46,7 @@ Tools are used for easier resource creation
   - [Lucky Crates](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Lucky%20Crate.zip)
   - [Easter](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Easter.zip)
   - [Summer](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Summer.zip)
-  - [Cookie Land](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Cooky%20Land.zip)
+  - [Cookie Land](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Cookie%20Land.zip)
 
 <div><img src="https://raw.githubusercontent.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/refs/heads/main/tex-buttons/other-textures.png" style="width: 15px"> Community made resources packs:<div/>
    
