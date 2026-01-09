@@ -33,13 +33,14 @@ Tools are used for easier resource creation
 # Archive
 <div><img src="https://raw.githubusercontent.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/refs/heads/main/tex-buttons/light-textures.png" style="width: 15px"> Light texture packs:<div/>
   
-  - [Classic Light resources](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Classic%20Light.zip)
-  - [Simple Light resources](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/simple-light-texturepack.zip)
+  - [Classic Light](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Classic%20Light.zip)
+  - [Simple Light](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/simple-light-texturepack.zip)
    
 <div><img src="https://raw.githubusercontent.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/refs/heads/main/tex-buttons/dark-textures.png" style="width: 15px"> Dark resources packs:<div/>
    
-  - [Classic Dark resources](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Classic%20Dark.zip)
-  - [Simple Dark resources](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/simple-dark-texturepack.zip)
+  - [Classic Dark](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Classic%20Dark.zip)
+  - [Simple Dark](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/simple-dark-texturepack.zip)
+  - [3D Dark](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/3D%20Dark.zip)
 
 <div><img src="https://raw.githubusercontent.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/refs/heads/main/tex-buttons/other-textures.png" style="width: 15px"> Other resources packs:<div/>
    
