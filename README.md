@@ -52,4 +52,4 @@ Tools are used for easier resource pack creation
 
 <div><img src="https://raw.githubusercontent.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/refs/heads/main/tex-buttons/other-textures.png" style="width: 15px"> Community made resources packs:<div/>
    
-  - There is a lot of resource packs made by other people, and that makes it hard to track, so we will list them in this [list](https://docs.google.com/document/d/1MFG3xCsaKNJQFi8-7w0gd5eS-ovquXDnQcwkCkI_7K8/edit?tab=t.0) for easier job done.
+  - There is a lot of resource packs made by other people, and that makes it hard to track, so we will list them in this [list](https://docs.google.com/document/d/1a0Q91ksGUk3AraY9L3RBGWTqdQSJFmeBnWySjY-kEEI/edit?tab=t.0) for easier job done.
