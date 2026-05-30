@@ -15,7 +15,8 @@ This repository is chained to [TankTroubleAddons](https://chromewebstore.google.
 Tools are used for easier resource pack creation
 
 - [Blank Crate](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/tools/BlankCrate.zip)
-- [Meta & Style files](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/tools/Tools.zip)
+- [Meta](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/tools/meta.json)
+- [Style](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/tools/style.css)
 
 # How to download/load custom resources
 - Download:
