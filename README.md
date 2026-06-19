@@ -14,9 +14,8 @@ This repository is chained to [TankTroubleAddons](https://chromewebstore.google.
 # Tools
 Tools are used for easier resource pack creation
 
-- [Blank Crate](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/tools/BlankCrate.zip)
-- [Meta](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/tools/meta.json)
-- [Style](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/tools/style.css)
+- [Blank Crate](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/tools/crateBlank.zip)
+- [Root Files](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/tools/rootFiles.zip)
 
 # How to download/load custom resources
 - Download:
@@ -35,12 +34,12 @@ Tools are used for easier resource pack creation
 <div><img src="https://raw.githubusercontent.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/refs/heads/main/tex-buttons/light-textures.png" style="width: 15px"> Light resource packs:<div/>
   
   - [Classic Light](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Classic%20Light.zip)
-  - [Simple Light](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/simple-light-texturepack.zip)
+  - [Simple Light](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Simple%20Light.zip)
    
 <div><img src="https://raw.githubusercontent.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/refs/heads/main/tex-buttons/dark-textures.png" style="width: 15px"> Dark resources packs:<div/>
    
   - [Classic Dark](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Classic%20Dark.zip)
-  - [Simple Dark](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/simple-dark-texturepack.zip)
+  - [Simple Dark](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/Simple%20Dark.zip)
   - [3D Dark](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-Resource-packs/raw/refs/heads/main/resourcepacks/3D%20Dark.zip)
 
 <div><img src="https://raw.githubusercontent.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/refs/heads/main/tex-buttons/other-textures.png" style="width: 15px"> Other resources packs:<div/>
